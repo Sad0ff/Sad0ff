@@ -6,4 +6,4 @@
 
 ### Spotify Playing 🎵
 
-[<img src="https://sadoff.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/thju1az0g2zpfo3ujv6loebxc)
+[<img src="https://sadoff.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/thju1az0g2zpfo3ujv6loebxc)
